@@ -1,0 +1,13 @@
+c:\users\fisayo\documents\visual studio 2010\Projects\AnyShoe\AnyShoe\bin\Debug\AnyShoe.exe
+c:\users\fisayo\documents\visual studio 2010\Projects\AnyShoe\AnyShoe\bin\Debug\AnyShoe.pdb
+c:\users\fisayo\documents\visual studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.Form1.resources
+c:\users\fisayo\documents\visual studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.Properties.Resources.resources
+c:\users\fisayo\documents\visual studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.csproj.GenerateResource.Cache
+c:\users\fisayo\documents\visual studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.exe
+c:\users\fisayo\documents\visual studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.pdb
+c:\users\fisayo\documents\visual studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.FirstCustomControl.resources
+c:\users\fisayo\documents\visual studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.MySecondCustomControl.resources
+C:\Users\Fisayo\Documents\Visual Studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.MyThirdCustomControl.resources
+C:\Users\Fisayo\Documents\Visual Studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.MyFourthCustomControl.resources
+C:\Users\Fisayo\Documents\Visual Studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.MyFifthCustomControl.resources
+C:\Users\Fisayo\Documents\Visual Studio 2010\Projects\AnyShoe\AnyShoe\obj\x86\Debug\AnyShoe.MySixthCustomControl.resources
